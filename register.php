@@ -63,7 +63,7 @@ include "koneksi.php";
                                             </div>
                                         </form>
                                     </div>
-                                    <div class="card-footer text-center py-3 bg-primary">
+                                    <div class="card-footer text-center py-3 bg-secondary">
                                         <div class="small"><a href="register.html">
                                             &copy; TO DO LIST 2025 
                                         </a></div>
